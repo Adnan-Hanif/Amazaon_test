@@ -1,0 +1,4 @@
+{
+    "baseUrl":"https://www.amazon.de/",
+    "ignoreTestFiles": "**/integration/2-advanced-examples/*"
+}
